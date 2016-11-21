@@ -2,6 +2,10 @@ h1 {
 	text-align: center;
 }
 
-h2 {
+h3, h4 {
 	font-weight: lighter;
+}
+
+.spacing {
+	padding-top: .5em;
 }
